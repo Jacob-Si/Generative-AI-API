@@ -18,7 +18,7 @@ Purchase one type of token, and gain access to all kinds of AI APIs!
 
 **Pricing**
 
-Midjourney API
+_Midjourney API_
 1. Imagine (include variation): 7 tokens/API call
 2. Describe:  7 tokens/API call
 3. Blend:  7 tokens/API call
@@ -26,7 +26,7 @@ Midjourney API
 5. QPS limit per IP address: 0.5
 
 
-Stable Diffusion API
+_Stable Diffusion API_
 1. token/API call
 
 
