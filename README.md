@@ -1,18 +1,14 @@
 # Generative-AI-API
 
-**One-stop-shop for all the Generative AI APIs**
+>**One-stop-shop for all the Generative AI APIs** Purchase one type of token, and gain access to all kinds of AI APIs! 
 
 Website: https://www.goapi.ai/
 
-Stable Diffusion API Documentation: https://builtopia.gitbook.io/api-docs/reference/stable-diffusion-api
-
-Midjourney API Documentiation: https://builtopia.gitbook.io/api-docs/reference/midjourney-api
-
-More to come: GPT3 / GPT4 / ChatPDF / SD FineTuning 
-
-----------------------------------------------------
-
-Purchase one type of token, and gain access to all kinds of AI APIs! 
+- [x] Stable Diffusion API Documentation: https://builtopia.gitbook.io/api-docs/reference/stable-diffusion-api
+- [x] Midjourney API Documentation: https://builtopia.gitbook.io/api-docs/reference/midjourney-api
+- [x] GPT3/GPT4: available but no documentation yet
+- [x] ChatPDF: almost online 
+- [x] LoRA Model Training API: almost online 
 
 ----------------------------------------------------
 
