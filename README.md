@@ -1,8 +1,8 @@
 # Generative-AI-API
 
-One stop shop for all the Generative AI APIs
+One-stop-shop for all the Generative AI APIs
 
-Website: goapi.ai
+Website: https://www.goapi.ai/
 
 Stable Diffusion API Documentation: https://builtopia.gitbook.io/api-docs/reference/stable-diffusion-api
 
@@ -12,6 +12,6 @@ More to come: GPT3 / GPT4 / ChatPDF / SD FineTuning
 
 ----------------------------------------------------
 
-Purchase one type of tokens, have access to all kinds of APIs! 
+Purchase one type of token, and gain access to all kinds of AI APIs! 
 
 
