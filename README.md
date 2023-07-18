@@ -25,6 +25,7 @@ Midjourney API
 4. Upscale: 1 token/API call
 5. QPS limit per IP address: 0.5
 
+
 Stable Diffusion API
 1. token/API call
 
