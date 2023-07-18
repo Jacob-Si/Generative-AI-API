@@ -12,9 +12,9 @@ Website: https://www.goapi.ai/
 
 ----------------------------------------------------
 
-**Pricing**
+# Pricing
 
-_Midjourney API_
+**Midjourney API**
 1. Imagine (include variation): 7 tokens/API call
 2. Describe:  7 tokens/API call
 3. Blend:  7 tokens/API call
@@ -22,7 +22,7 @@ _Midjourney API_
 5. QPS limit per IP address: 0.5
 
 
-_Stable Diffusion API_
+**Stable Diffusion API**
 1. token/API call
 
 
